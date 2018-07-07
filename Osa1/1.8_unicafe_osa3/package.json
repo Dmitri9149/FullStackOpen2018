@@ -1,10 +1,10 @@
 {
-  "name": "1.7_unicafe_osa2",
+  "name": "1.8_unicafe_osa3",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
     "react-scripts": "1.1.4"
   },
   "scripts": {
