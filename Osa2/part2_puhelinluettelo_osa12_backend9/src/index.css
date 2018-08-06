@@ -1,0 +1,17 @@
+
+
+.okMessage {
+  background-color: rgb(5, 204, 154);
+  padding: 11px;
+  margin-bottom: 12px
+
+}
+
+.errorMessage {
+  background-color: rgb(224, 8, 37);
+  padding: 11px;
+  margin-bottom: 12px
+
+}
+
+
